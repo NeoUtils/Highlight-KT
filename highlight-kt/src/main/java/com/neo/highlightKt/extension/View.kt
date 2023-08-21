@@ -1,4 +1,4 @@
-package com.neo.highlightKt.extensions
+package com.neo.highlightKt.extension
 
 import android.widget.EditText
 import android.widget.TextView
